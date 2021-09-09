@@ -3,4 +3,5 @@ I will be printing boop in every language! i will add a new language every day a
 
 ## updates
 day 1: C language
+
 day 2: golang

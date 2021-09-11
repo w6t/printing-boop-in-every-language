@@ -7,3 +7,5 @@ day 1: C language
 day 2: golang
 
 day 3: python
+
+day 4: ruby

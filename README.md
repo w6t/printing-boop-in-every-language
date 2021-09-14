@@ -11,3 +11,5 @@ day 3: python
 day 4: ruby
 
 day 5: node.js
+
+day 6: java

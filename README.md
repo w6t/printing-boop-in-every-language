@@ -15,3 +15,5 @@ day 5: node.js
 day 6: java
 
 day 7: php
+
+## i gave up LOL im too busy to do this

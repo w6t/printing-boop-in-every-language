@@ -2,18 +2,8 @@
 I will be printing boop in every language! i will add a new language every day and update what have i added on the read.md.
 
 ## updates
-day 1: C language
+w6t:          `C language, golang, python, ruby, node.js, java, php`
 
-day 2: golang
+PiggyAwesome: `brainfuck, assembly, haskell, prolog`
 
-day 3: python
-
-day 4: ruby
-
-day 5: node.js
-
-day 6: java
-
-day 7: php
-
-## i gave up LOL im too busy to do this
+## Please create a pull request!
